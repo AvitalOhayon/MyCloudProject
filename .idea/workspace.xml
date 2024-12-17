@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd0d527f-df11-4042-85ae-24fe3be3af8b" name="Changes" comment="" />
+    <list default="true" id="dd0d527f-df11-4042-85ae-24fe3be3af8b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/first-service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-service/MyKey.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-service/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-service/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-service/app/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-service/app/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-service/app/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-service/app/user_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-service/app/user_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-service/app/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-service/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-service/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-service/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AvitalOhayon"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AvitalOhayon/MyCloudProject.git",
+    "accountId": "2832ef6b-fda3-4c44-8a6e-06742557d98d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2pz5igak4BY8wV2a6bDY9tI1hiM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,7 +52,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
